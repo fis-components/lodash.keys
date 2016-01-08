@@ -9,6 +9,6 @@
         "lodash.isarray": "^3.0.0",
         "lodash.isnative": "^3.0.0"
     },
-    "version": "3.0.1",
+    "version": "3.0.2",
     "main": "index.js"
 }
